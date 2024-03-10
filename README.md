@@ -1,2 +1,2 @@
 # ARRAY-Of-Courses-
-Assignment 
+Define Arrays of courses and they're scores
